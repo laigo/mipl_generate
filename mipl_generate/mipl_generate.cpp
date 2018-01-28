@@ -1,4 +1,4 @@
-// ConsoleApplication10.cpp : 定义控制台应用程序的入口点。develop
+// ConsoleApplication10.cpp : 定义控制台应用程序的入口点。develop 2018.0128
 //
 
 #include "stdafx.h"
